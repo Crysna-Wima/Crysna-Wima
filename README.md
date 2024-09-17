@@ -73,7 +73,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Crysna-Wima&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 ## Github Contributions
-![snake animation](https://github.com/<seu crysna-wima>/<seu crysna-wima>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/crysna-wima/crysna-wima/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me😃:</h3>
 <p align="left">
