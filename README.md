@@ -1,3 +1,7 @@
+<!--Banner-->
+![crysna-wima Banner Image](./silentscripter.gif)
+
+<hr>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
