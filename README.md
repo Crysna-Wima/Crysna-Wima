@@ -6,6 +6,9 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Crysna+Wima+Rangga..;Passionate+at+web+developer;I'm+from+Indonesia+🇮🇩;Nice+To+Meet+You+....&center=true"></a></p>
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" /></p>
     
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=crysna-wima&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="crysna-wima" style="padding-right:20px;" />
